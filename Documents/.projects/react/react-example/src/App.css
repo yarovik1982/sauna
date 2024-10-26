@@ -1,0 +1,19 @@
+.App {
+  text-align: center;
+}
+
+.table-wrapper{
+  background: teal;
+}
+.span {
+display: inline-block;
+padding: 4px 16px;
+border-radius: 16px;
+background: rgba(0, 0, 0, 0.7);
+}
+td {
+width: 33.333%;
+}
+td:last-child {
+text-align: center;
+}
